@@ -14,6 +14,6 @@ Framework: TensorFlow.
 Model Type: Convolutional Neural Network (CNN).
 Evaluation Metrics: Accuracy, Precision, Recall, F1-score.
 Objectives:
-1.To develop a robust CNN model that can accurately classify lung conditions from chest X-ray images.
-2.To explore and optimize different CNN architectures for improved prediction performance.
-3.To create a scalable solution that can be potentially deployed in clinical settings.
+  1.To develop a robust CNN model that can accurately classify lung conditions from chest X-ray images.
+  2.To explore and optimize different CNN architectures for improved prediction performance.
+  3.To create a scalable solution that can be potentially deployed in clinical settings.
